@@ -1,1 +1,1 @@
-# Revo Ticket Management System With Java MySql
+# Revo Ticket Management System Using Java & MySql

@@ -1,4 +1,4 @@
-# Revo Ticket Management System Using
+# Revo Ticket Management System
 Technology Used: Java, MySql
 
 ![Main](https://user-images.githubusercontent.com/73344827/140600292-7b5990f1-5970-4506-afea-4a1ad94ee9f8.PNG)

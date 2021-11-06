@@ -1,5 +1,7 @@
 # Revo Ticket Management System
-Technology Used: Java, MySql
+<h3>Technology Used: Java, MySql</h3>
+
+<h3>1. Admin Dashboard</h3>
 
 ![Main](https://user-images.githubusercontent.com/73344827/140600292-7b5990f1-5970-4506-afea-4a1ad94ee9f8.PNG)
 ![Billing](https://user-images.githubusercontent.com/73344827/140600303-b2455d7d-93b2-4fc0-9f83-187b4b6ec8d8.PNG)

@@ -1,5 +1,5 @@
 # Revo Ticket Management System
-<h3> Technology Used: Java, MySql</h3>
+### Technology Used: Java, MySql
 
 ## Admin Dashboard
 
